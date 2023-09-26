@@ -1,3 +1,4 @@
 Name:Sunny Pal
 Std.No.:2212102
-brranch:cs
+branch:cs
+I am from ajay kumar garg engineering college and i have joined BDCOE.
